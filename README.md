@@ -1,13 +1,13 @@
-# Hello, I'm Arjun 
+# Hello, I'm Arjun  👋
 
 **Pursuing BTech Computer Student**
 
 ## CONNECT WITH ME:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunsdinesh)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto: arjunsdinesh2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsdinesh2003@gmail.com)
 
-## SKILLS:
+## Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
